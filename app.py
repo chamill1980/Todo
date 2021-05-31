@@ -7,7 +7,7 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = 'mysecret'
 
 
-todos = ["Present Yourself - who you are! ", "Present a Project/Achievement", "Present Snyk", "Slides on Snyk", "Technical Demo Snyk"]
+todos = ["1.Present Yourself - who you are! ", "2.Present a Project/Achievement", "Present Snyk", "Slides on Snyk", "Technical Demo Snyk"]
 
 
 
